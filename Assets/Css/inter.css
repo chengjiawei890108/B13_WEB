@@ -1,0 +1,32 @@
+.bod{
+    background-color: #F0EBE5;
+    font-family:"Microsoft JhengHei";
+}
+.had{
+    background-color: #965454;
+}
+.war{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: #965454;
+    margin-bottom: 0px;
+    z-index: 16;
+}
+.logo{
+    width: 50px;
+}
+.im{
+    max-height: 300px;
+}
+.intro{
+    width: 60%;
+}
+.hore{
+    display: flex;    
+    align-items: center;    
+}
+.tex{
+    max-width:60%;
+}
